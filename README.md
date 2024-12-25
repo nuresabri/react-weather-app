@@ -1,22 +1,24 @@
-ReactJS Weather App
+# ReactJS Weather App
+
 Welcome to my ReactJS Weather App! This project is a simple weather application built with ReactJS, which fetches weather data from the Meteosource Weather API.
 
-Features
-Display current weather for any location
-User-friendly interface with styled-components
-Responsive design
-Error handling for API requests
-Getting Started
-Prerequisites
-Node.js (v14 or higher)
-npm (v6 or higher) or yarn
-Installation
-Clone the repository:
+## Features
+- Display current weather for any location
+- User-friendly interface with styled-components
+- Responsive design
+- Error handling for API requests
 
-bash
-Copy code
-git clone https://github.com/nuresabri/react-weather-app.git
-cd react-weather-app
+## Getting Started
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm (v6 or higher) or yarn
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nuresabri/react-weather-app.git
+   cd react-weather-app
 Install dependencies:
 
 bash
